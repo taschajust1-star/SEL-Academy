@@ -1,118 +1,188 @@
-# DOES-C & ROYGBIV Frameworks
+# ROYGBIV Values Framework & DOES-C Regulation Framework
 
-**SEL Academy | Just 1 Team**  
-**Author:** Tascha Just, Ed.S., NCSP  
-**Last Updated:** April 2026
+> A SEL Academy Resource | Developed by Tascha Just, Ed.S, NCSP
 
 ---
 
-## Overview
+## 1. ROYGBIV Values Framework
 
-The DOES-C and ROYGBIV frameworks form the neurobiological and visual backbone of SEL Academy's approach to regulation, resilience, and culturally responsive practice. Together, they provide a shared language for educators, administrators, and students to understand and respond to nervous system states.
+**Trauma-Informed Values Map for Safer Schools & Stronger Communities**
 
----
+### Purpose
 
-## DOES-C Framework
+The ROYGBIV Values Framework is a shared language system that connects colors to clear behavioral values and decision-making anchors. It was designed to reduce confusion, bias, and escalation in moments where adults and youth are under stress, and to give teams a neutral, memorable way to talk about expectations without shaming or labeling.
 
-DOES-C is a proprietary neurochemical regulation model that maps five key neurochemicals to behavioral and emotional states. It is the clinical foundation of Just 1 Team's work.
+ROYGBIV is not a poster or a gimmick. It is a trauma-informed, culturally responsive decision map that can align school districts, community programs, justice partners, and health systems around what it means to act with integrity, safety, and care.
 
-| Letter | Neurochemical | Function | Behavioral Indicators |
-|---|---|---|---|
-| **D** | Dopamine | Motivation, reward, drive, goal pursuit | Engagement, curiosity, initiative; dysregulation = apathy, impulsivity |
-| **O** | Oxytocin | Connection, trust, belonging, social bonding | Warmth, cooperation, empathy; dysregulation = isolation, distrust |
-| **E** | Endorphins | Resilience, pain tolerance, joy, perseverance | Persistence, humor, recovery; dysregulation = fragility, avoidance |
-| **S** | Serotonin | Stability, mood regulation, calm, status | Confidence, groundedness, fairness; dysregulation = irritability, rigidity |
-| **C** | Cortisol | Stress response, threat detection, survival | Alertness, urgency; chronic dysregulation = burnout, hypervigilance |
+This framework integrates easily with MTSS, PBIS, restorative practices, and agency codes of conduct. It is intentionally compatible with high-integrity value systems (including the U.S. Army values and public service ethics) so that communities who prioritize discipline and accountability can embrace it without feeling like they are "softening" expectations.
 
-### Core Principle
-> A dysregulated nervous system cannot teach, lead, or learn. Regulate the adult, and the child will follow.
+### Who It Serves
 
-### Application in Schools
-- **IEP Prep Compression:** AI tools trained to synthesize student data into compliant, neurodiversity-affirming IEP draft language, saving 2–3 hours per IEP
-- **Staff Conflict Scripting:** On-demand de-escalation language using DOES-C vocabulary
-- **Parent Communication Drafting:** Emotionally intelligent, trauma-informed email drafting
-- **Director Coaching:** Strategic coaching sessions using DOES-C to identify systemic regulation patterns
+This framework is built for leaders and teams who:
 
----
+- Hold responsibility for youth safety and development.
+- Need consistent language across multiple adults, sites, or agencies.
+- Want to be both firm and compassionate.
+- Are committed to reducing disproportionate discipline and fostering belonging.
 
-## ROYGBIV / Prism Effect Framework
+It is appropriate for schools, alternative programs, community-based organizations, public safety partners, youth-serving nonprofits, and cross-agency collaboratives.
 
-The ROYGBIV framework is a color-coded regulation system that converts complex emotional and cognitive dynamics into practical, visual tools. Each color maps to a neurochemical state and corresponding regulation strategy.
+### The Color Map
 
-| Color | State | Neurochemical Focus | Regulation Strategy |
-|---|---|---|---|
-| 🔴 **Red** | High activation / survival mode | Cortisol dominant | Grounding, physical movement, co-regulation |
-| 🟠 **Orange** | Agitation / urgency | Cortisol + Dopamine | Structured choice, clear expectations, movement |
-| 🟡 **Yellow** | Alertness / mild stress | Serotonin + Cortisol | Breathing, rhythm, predictability |
-| 🟢 **Green** | Regulated / optimal learning | Serotonin + Oxytocin | Connection, curiosity, engagement |
-| 🔵 **Blue** | Calm / reflective | Serotonin + Endorphins | Deep work, creativity, integration |
-| 🟣 **Indigo** | Introspective / deep processing | Oxytocin + Endorphins | Storytelling, meaning-making, wisdom |
-| 🟣 **Violet** | Full spectrum integration | All systems balanced | Leadership, mentorship, generativity |
+| Color | Core Value | Behavioral Stance |
+|-------|-----------|-------------------|
+| 🔴 Red | Safety & Courage | Non-negotiable commitments: physical and emotional safety, crisis protection, courage to speak up when harm is occurring, responsibility to stop — not fuel — dangerous behavior. |
+| 🟠 Orange | Respect & Dignity | Language, tone, and daily interactions. Everyone is addressed with basic respect — across race, gender identity, culture, disability, role, or disagreement. |
+| 🟡 Yellow | Integrity & Honesty | Truth-telling, follow-through, and accountability. Mistakes will be addressed with clarity and fairness rather than humiliation. |
+| 🟢 Green | Responsibility & Growth | Effort, follow-through, and learning from choices. Recognizes when people repair harm, meet expectations, support peers, or take on leadership roles. |
+| 🔵 Blue | Loyalty & Belonging | Relationships, inclusion, and team identity. No student, staff member, or community partner is disposable — "we don't leave people behind when they struggle." |
+| 🟣 Indigo | Reflection & Wisdom | The pause color. Used for debriefing, restorative circles, supervision, coaching, and any moment when people step back to ask: "What happened? What did we need? What will we try next?" |
+| 💜 Violet | Service & Stewardship | The highest level of leadership: using power, privilege, and resources to protect others, uplift the community, and honor both ancestors and future generations. |
 
-### Design Philosophy
-The ROYGBIV framework is not merely decorative — it is a clinical and emotional intervention. Visual design follows accessibility principles:
-- Neutral background palette to prevent sensory overwhelm
-- Bold colors used strategically to signal state, not decorate
-- Minimal text; maximum visual clarity
-- Culturally adaptable across Indigenous, Western, and global contexts
+### How ROYGBIV Works in Practice
 
-### The Prism Toolkit
-The physical/digital toolkit includes:
-- 7 color-coded practice cards (front & back)
-- 1 pocket-sized DOES-C reference guide
-- 1 QR code card linking to somatic audio scripts
-- Somatic audio scripts for each color (14 total — 2 per color)
+The framework is designed to be:
 
----
+- **Visual.** Staff and students can name colors faster than policies.
+- **Neutral.** Saying "Let's go back to Green" feels different than "You're noncompliant."
+- **Aligned.** The same language can be used in classrooms, hallways, offices, patrol cars, clinics, and boardrooms.
+- **Scalable.** It can be layered with existing matrices, handbooks, and state guidance.
 
-## Mashkawiziiwin Integration
+**Examples of use:**
 
-Mashkawiziiwin (Ojibwe: "Inner Strength" or "The Power Within") is the Indigenous wisdom tradition that grounds the DOES-C and ROYGBIV frameworks in cultural context.
+- A teacher uses ROYGBIV to pre-teach expectations: *"In this space, Red means you're safe, Yellow means you tell the truth even when it's hard, Green means we try and repair."*
+- A school resource officer references the colors instead of threats: *"Right now we've slipped out of Red safety. Let's get back there together without anyone losing face."*
+- A principal or supervisor uses Indigo time after an incident to process with staff or students, naming nervous system responses without blame.
+- A district or agency links recognition systems (awards, shout-outs, leadership roles) to Green, Blue, and Violet behaviors so youth see values in action, not on a poster.
 
-### Wisdom Traditions Integrated
-- Anishinaabe Grandfather Teachings
-- Hindu Chakra system
-- Christian Virtues
-- Kwanzaa Principles
-- U.S. Army Values
-- CASEL competencies
+### Trauma-Informed & Equity-Aligned
 
-### Cultural Flexibility Principle
-All frameworks are designed to be:
-- **Language-adaptable** — translated and culturally localized
-- **Community-grounded** — developed with, not for, communities
-- **Trauma-informed** — paced for safety, not performance
-- **Equity-centered** — explicitly addressing disproportionality
+ROYGBIV is built to align with trauma-informed care principles:
 
----
+- It prioritizes safety and predictability.
+- It uses shared language instead of subjective labels.
+- It reduces adult reactivity by offering a script and structure.
+- It invites collaboration and repair instead of automatic exclusion.
 
-## Evidence Base
+By relying on clearly defined values and color language, the framework:
 
-### Measurable Outcomes (Brooklyn Center & ISD 287)
-- **45% reduction in suspensions**
-- **Truancy reduced from 30% to 12%**
-- Staff-reported significant decrease in daily stress within 60 days
-- Behavioral escalations de-escalated faster using shared DOES-C language
+- Helps reduce disproportionate discipline based on race, disability, or perceived attitude.
+- Supports youth who have experienced trauma, system involvement, or bias.
+- Normalizes reflection and repair as strengths, not weaknesses.
 
-### Research Alignment
-- Polyvagal Theory (Stephen Porges)
-- Trauma-Informed Care frameworks
-- MTSS (Multi-Tiered Systems of Support)
-- CASEL SEL Framework
-- Indigenous relational pedagogy
+### Implementation Pathways
+
+Teams typically move through four stages:
+
+| Stage | Description |
+|-------|-------------|
+| **Foundation** | Introduce the colors and values to leadership; identify alignment with existing policies. |
+| **Staff Alignment** | Train all adults on language, modeling, and de-escalation scripts. |
+| **Student & Community Integration** | Co-create examples with students; share with families and community partners. |
+| **Sustainability** | Embed colors into handbooks, visuals, restorative processes, and recognition systems; review data regularly. |
+
+SEL Academy provides training, coaching, and customizable tools to support this process.
+
+### Intended Outcomes
+
+- Reduced use of exclusionary discipline.
+- More consistent, transparent responses to behavior.
+- Improved perceptions of fairness and safety among students, families, and staff.
+- Increased opportunities for student leadership and positive recognition.
+- Strengthened partnership between schools, agencies, and communities.
+
+**Attribution:** ROYGBIV Values Framework is a SEL Academy model, developed by Tascha Just, Ed.S, NCSP.
 
 ---
 
-## Legal & Clinical Boundaries
+## 2. DOES-C Regulation Framework (The Prism Effect)
 
-> ⚠️ **Important:** SEL Academy frameworks are educational tools, not clinical interventions. They are designed to support educator capacity and systemic regulation — not to diagnose, treat, or replace clinical mental health services.
+**Neurochemical-Informed Support for Trauma-Responsive Systems**
 
-All content is reviewed for:
-- Trauma-sensitive pacing and language
-- Cultural accuracy and community consent
-- Clinical boundary clarity
-- Accessibility compliance
+### Purpose
+
+The DOES-C Framework, also known as **The Prism Effect**, offers a simple, science-informed way to understand stress, behavior, and regulation without pathologizing people.
+
+Instead of asking *"What's wrong with them?"* DOES-C helps teams ask, *"What is happening in their nervous system, and what support will help?"* It turns complex neuroscience into a clear, teachable lens for students, staff, caregivers, clinicians, and first responders.
+
+This framework is trauma-informed, neurodiversity-affirming, and designed to integrate with MTSS, restorative practices, crisis response protocols, and public health priorities.
+
+### The Letters
+
+| Letter | Neurochemical | What It Looks Like | Support Strategies |
+|--------|--------------|-------------------|-------------------|
+| **D** | Dopamine | Motivation, reward, and anticipation. Low dopamine can look like "lazy" or "defiant" when it is actually exhaustion, executive functioning overload, depression, or boredom with repetitive tasks. | Break tasks down, offer meaningful choices, connect actions to clear outcomes, celebrate progress. |
+| **O** | Oxytocin | Connection, trust, and felt safety with others. Unmet needs may appear as guarded, isolated, clingy, reactive, or excessively people-pleasing. | Predictable relationships, consistent adults, peer allies, cultural affirmation, spaces where identity is respected. |
+| **E** | Endorphins | Pain relief and stress buffering. Overloaded people may seek intense experiences, movement, laughter, risk, or shut down. | Safe physical outlets, movement breaks, sensory regulation, play, creativity, acknowledging invisible pain. |
+| **S** | Serotonin | Stability, mood regulation, and feeling grounded. Disruptions show up as irritability, anxiety, rumination, sleep issues, or mood swings adults often misread as "attitude." | Clear routines, balanced demands, calming practices, honoring cultural and spiritual grounding, reducing unpredictability. |
+| **C** | Cortisol | The stress alarm. Chronic elevation reshapes brains, bodies, and behavior — hypervigilance, jumpiness, explosive reactions, numbing, or mistrust of authority. | Build real safety, reduce public shaming, de-escalation skills, offer choices that restore power. |
+
+### Why This Matters
+
+When adults do not have a shared framework, they default to moral judgments: *disrespectful, manipulative, attention-seeking, oppositional.*
+
+DOES-C replaces those labels with a nervous system lens. That shift:
+
+- reduces shame,
+- improves relationships,
+- prevents escalation,
+- and opens the door to interventions that actually work.
+
+It is particularly critical in communities navigating trauma, racism, poverty, displacement, carceral systems, or intergenerational stress.
+
+### Core Practice: Notice, Name, Normalize, Navigate
+
+**Notice.** Adults learn to observe patterns: time of day, environment, triggers, sensory load, history. *"What are we seeing in body language, energy, and engagement?"*
+
+**Name.** Using neutral language, adults connect behavior to DOES-C. *"This looks like a Green-level dopamine crash"* or *"This might be high cortisol after lunchroom chaos."*
+
+**Normalize.** Adults signal that these responses are human, explainable, and workable. *"You're not broken. Your brain is trying to protect you. Let's figure out what helps."*
+
+**Navigate.** Together, adults and youth choose regulation strategies tied to DOES-C: movement, pacing, connection, task adjustment, boundaries, co-regulation, or quiet time.
+
+This process can be used in hallways, counseling sessions, IEP meetings, restorative circles, case consultations, and supervision.
+
+### Applications Across Settings
+
+**In schools:** DOES-C informs classroom routines, sensory supports, check-ins, crisis response, and student-specific plans that are strengths-based and culturally aware.
+
+**In public safety and justice settings:** DOES-C helps staff recognize survival responses instead of reading everything as defiance or threat, and adjust interactions to reduce escalation.
+
+**In healthcare and mental health:** DOES-C complements existing clinical frameworks and improves collaboration between providers, schools, and families.
+
+**In leadership and staff wellness:** DOES-C offers a mirror — adults use it to track their own regulation, compassion fatigue, and burnout, which directly affect how they show up.
+
+### Trauma-Informed, MDH-Compatible
+
+The DOES-C Framework aligns with trauma-informed principles and public health priorities by:
+
+- emphasizing safety, predictability, and trust,
+- supporting early identification of stress responses,
+- encouraging cross-disciplinary collaboration,
+- respecting cultural, racial, and historical context,
+- and avoiding pathologizing language.
+
+It can be referenced in MDH-related grants and initiatives as a concrete strategy for building trauma-responsive, regulation-informed environments in schools and communities.
+
+### Implementation Overview
+
+| Phase | Description |
+|-------|-------------|
+| **Introduction** | Train leadership and key staff in DOES-C and The Prism Effect using real cases from their context. |
+| **Integration** | Embed DOES-C language into existing teams: student support, PBIS/MTSS, mental health, SRO, school nurses, deans, counselors, case managers. |
+| **Tools** | Use color-coded visuals, reflection guides, and planning templates that align with ROYGBIV values and local culture. |
+| **Sustainability** | Incorporate DOES-C into onboarding, supervision, and periodic data reviews (suspensions, calls to 911, restraints, seclusion, crisis referrals, climate surveys). |
+
+### Intended Outcomes
+
+- More regulated adults and youth, especially in high-stress environments.
+- Fewer escalations leading to removal, police contact, or hospitalization.
+- Increased staff confidence responding to complex behavior.
+- Greater family trust in school and agency responses.
+- A shared language for cross-system collaboration.
+
+**Attribution:** DOES-C (The Prism Effect) is a SEL Academy framework developed by Tascha Just, Ed.S, NCSP. This resource may be cited in proposals and implementation plans as a regulation and decision-making model provided in partnership with SEL Academy.
 
 ---
 
-*Document maintained by Tascha Just, Ed.S., NCSP | SEL Academy | [selalearning.com](https://selalearning.com)*
+*SEL Academy | Where we turn survival into strategy, and strategy into sovereignty.*
