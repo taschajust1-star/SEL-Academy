@@ -1,6 +1,6 @@
 # Conflict of Interest & "Do Not Sell" Policy: Mounds View ISD 621
 
-**Entity:** Just 1 Team LLC (DBA SEL Academy | ManifestIQ)  
+**Entity:** Just 1 Team LLC (DBA SEL Academy | DisciplineIQ)  
 **Effective Date:** May 5, 2026  
 **Owner:** Tascha Just, Founder & CEO  
 **Statutory Basis:** Minnesota Statute § 471.87 (Public Officers, Interest in Contract)
@@ -9,7 +9,7 @@
 
 ## 1. Core Policy Statement
 
-Tascha Just, Founder and CEO of Just 1 Team LLC (DBA SEL Academy and ManifestIQ), currently serves as an elected school board member for **Mounds View Public Schools (ISD 621)**. 
+Tascha Just, Founder and CEO of Just 1 Team LLC (DBA SEL Academy and DisciplineIQ), currently serves as an elected school board member for **Mounds View Public Schools (ISD 621)**. 
 
 Under Minnesota state law (Minn. Stat. § 471.87), a public officer is strictly prohibited from having a personal financial interest in any sale, lease, or contract with the public body they serve. 
 
@@ -19,10 +19,10 @@ To ensure absolute compliance, protect the integrity of Mounds View ISD 621, and
 
 ## 2. The "Do Not Sell To" List
 
-**Mounds View Public Schools (ISD 621) is permanently placed on the "Do Not Sell To" list for all products, services, and software offered by Just 1 Team LLC, SEL Academy, and ManifestIQ.**
+**Mounds View Public Schools (ISD 621) is permanently placed on the "Do Not Sell To" list for all products, services, and software offered by Just 1 Team LLC, SEL Academy, and DisciplineIQ.**
 
 This prohibition applies to all current and future offerings, including but not limited to:
-* ManifestIQ SaaS subscriptions or pilots
+* DisciplineIQ SaaS subscriptions or pilots
 * SEL Academy Tier 1, Tier 2, or Tier 3 consulting packages
 * District Discipline Risk Audits
 * Paid speaking engagements, keynotes, or workshops
@@ -45,12 +45,12 @@ All incoming operators, integrators, business development (BD) representatives, 
 
 ---
 
-## 4. Public Website Disclosure (ManifestIQ & SEL Academy)
+## 4. Public Website Disclosure (DisciplineIQ & SEL Academy)
 
-The following disclosure must be placed in the footer of the ManifestIQ and SEL Academy websites, as well as in the terms of service:
+The following disclosure must be placed in the footer of the DisciplineIQ and SEL Academy websites, as well as in the terms of service:
 
 > **Ethics & Compliance Disclosure:**  
-> *Tascha Just, Founder of Just 1 Team LLC (ManifestIQ / SEL Academy), serves on the school board for Mounds View Public Schools (ISD 621). In strict adherence to Minnesota Statute § 471.87, Just 1 Team LLC does not solicit, accept, or engage in any financial contracts, sales, or paid services with Mounds View ISD 621. We are committed to maintaining the highest standards of public trust and operational integrity.*
+> *Tascha Just, Founder of Just 1 Team LLC (DisciplineIQ / SEL Academy), serves on the school board for Mounds View Public Schools (ISD 621). In strict adherence to Minnesota Statute § 471.87, Just 1 Team LLC does not solicit, accept, or engage in any financial contracts, sales, or paid services with Mounds View ISD 621. We are committed to maintaining the highest standards of public trust and operational integrity.*
 
 ---
 
@@ -60,7 +60,7 @@ The following actions must be completed to operationalize this policy:
 
 - [ ] **CRM Update:** Add Mounds View ISD 621 to the global "Do Not Contact / Disqualified" list in the CRM.
 - [ ] **Onboarding Integration:** Add this document as a mandatory signature item in the Operator Intake Form & Review Process.
-- [ ] **Website Update:** Add the Public Website Disclosure to the footers of `selalearning.com` and the ManifestIQ landing page.
+- [ ] **Website Update:** Add the Public Website Disclosure to the footers of `selalearning.com` and the DisciplineIQ landing page.
 - [ ] **Automated Routing:** Configure a Zapier/Make rule that automatically flags and archives any inbound form submissions from `@moundsviewschools.org` email addresses.
 
 ---
