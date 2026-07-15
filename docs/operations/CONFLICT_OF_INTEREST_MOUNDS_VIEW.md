@@ -31,6 +31,8 @@ This prohibition applies to all current and future offerings, including but not 
 
 This prohibition remains in effect for the entire duration of Tascha Just's tenure on the Mounds View ISD 621 school board.
 
+**Service Cooperative Channel Note (added July 2026):** DisciplineIQ's go-to-market now includes master-license sales through Minnesota service cooperatives (Metro ECSU and Resource Training & Solutions are the first targets). Because ISD 621 is a Metro ECSU member district, any co-op master license must **explicitly carve out Mounds View ISD 621** from covered member districts, and no co-op revenue may be attributable to ISD 621 usage. This carve-out must appear in the co-op rate card and master license agreement before signature.
+
 ---
 
 ## 3. Operator & Sales Representative Training Notice
